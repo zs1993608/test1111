@@ -1,0 +1,62 @@
+.size{
+    margin-top:35px;
+    font-size:15px;
+    font-weight: bold;
+    color:rgba(66, 66, 66, 0.5)
+}
+.size>span{
+    color:red
+}
+.size .sizec{
+    color:black
+}
+.buttons{
+    margin-top:10px;
+}
+.buttons button{
+    width:40px;
+    height:40px;
+    margin-right:5px;
+    color:rgba(56, 56, 56, 0.493);
+    background-color:white;
+    border-color:rgba(117, 116, 116, 0.493);
+}
+
+.addToCart{
+    border:2px solid;
+    font-weight: bold;
+    margin-top:20px;
+    height:40px;
+    width:140px;
+    background-color:white;
+}
+
+.addToCart:hover{
+    background-color: black;
+    color:white;
+}
+
+.title{
+    font-size:20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.price{
+    font-size:15px;
+    font-weight: bold;
+    margin:5px 0 5px 0;
+}
+
+.DividingLine{
+    width: 450px;
+    height: 1px;
+    border-top: solid #ACC0D8 1px;
+    color: #888888;
+}
+
+.text{
+    width:500px;
+    color:#888888;
+    margin-top:20px;
+}

@@ -1,0 +1,13 @@
+.container{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+.body{
+    margin-top:35px;
+    display:flex;
+    justify-content:space-around;
+}
+.www{
+    margin-right: 150px;
+}
